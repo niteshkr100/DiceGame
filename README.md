@@ -3,9 +3,10 @@
 A simple dice game where two players roll a die and the player with the highest number wins.
 
 #Built with technology
--HTML, 
--CSS, and 
--JavaScript
+
+- HTML, 
+- CSS, and 
+- JavaScript
 
 ## Demo
 
